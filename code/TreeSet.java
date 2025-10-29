@@ -44,7 +44,7 @@ class MyComparator implements Comparator
     }
 }
 
-public class Tsettr
+public class TreeSet
 {
     public static void main(String[] args)
     {
